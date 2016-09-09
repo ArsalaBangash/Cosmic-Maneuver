@@ -1,0 +1,19 @@
+
+right.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow_right
+  rotate: false
+  xy: 1, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+arrow_right_green
+  rotate: false
+  xy: 65, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1

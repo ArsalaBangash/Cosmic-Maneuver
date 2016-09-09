@@ -1,0 +1,19 @@
+
+instructionsNewButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+instructions
+  rotate: false
+  xy: 1, 204
+  size: 617, 201
+  orig: 617, 201
+  offset: 0, 0
+  index: -1
+instructionspressed
+  rotate: false
+  xy: 1, 1
+  size: 617, 201
+  orig: 617, 201
+  offset: 0, 0
+  index: -1

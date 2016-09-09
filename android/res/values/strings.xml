@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cosmic Maneuver</string>
+    <string name="sign_in_error">There was an issue with sign-in, please try again later</string>
+
+
+</resources>

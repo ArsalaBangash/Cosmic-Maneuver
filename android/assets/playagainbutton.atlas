@@ -1,0 +1,19 @@
+
+playagainbutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+play again pressed
+  rotate: false
+  xy: 1, 1
+  size: 211, 225
+  orig: 211, 225
+  offset: 0, 0
+  index: -1
+play again
+  rotate: false
+  xy: 214, 1
+  size: 211, 225
+  orig: 211, 225
+  offset: 0, 0
+  index: -1

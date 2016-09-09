@@ -1,0 +1,117 @@
+
+asteroid_b.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b1
+  rotate: false
+  xy: 1, 727
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 645, 485
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 967, 727
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 323, 1
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 645, 243
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 967, 485
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 1289, 727
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b8
+  rotate: false
+  xy: 645, 1
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b9
+  rotate: false
+  xy: 967, 243
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 1, 485
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 323, 727
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b12
+  rotate: false
+  xy: 1, 243
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b13
+  rotate: false
+  xy: 323, 485
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b14
+  rotate: false
+  xy: 645, 727
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b15
+  rotate: false
+  xy: 1, 1
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+b16
+  rotate: false
+  xy: 323, 243
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1

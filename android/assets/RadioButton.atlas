@@ -1,0 +1,19 @@
+
+RadioButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RadioNotPressed
+  rotate: false
+  xy: 1, 1
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+RadioPressed
+  rotate: false
+  xy: 77, 1
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1

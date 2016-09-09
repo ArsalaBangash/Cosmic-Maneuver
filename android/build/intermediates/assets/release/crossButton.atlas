@@ -1,0 +1,19 @@
+
+crossButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cross
+  rotate: false
+  xy: 1, 1
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+crossPressed
+  rotate: false
+  xy: 50, 1
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1

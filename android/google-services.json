@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151871365855",
+    "project_id": "cosmic-maneuver-49028627"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151871365855:android:f83fccc992b77aae",
+        "android_client_info": {
+          "package_name": "com.anyconfusionhere.spaceshipgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151871365855-n5st4ntnplb2hdqqrv3svllqcpb64a6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anyconfusionhere.spaceshipgame",
+            "certificate_hash": "01FACF6A3326E8D80BE1834B695FCB44D3F30B09"
+          }
+        },
+        {
+          "client_id": "151871365855-6emf582qi5iavfi5jkkenjn7tbi1tjfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97xk_ZKC2Wj9qw1YRdfylHnYj4o99HSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

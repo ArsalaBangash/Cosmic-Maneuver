@@ -1,0 +1,19 @@
+
+mediumButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+medium button pressed
+  rotate: false
+  xy: 1, 368
+  size: 535, 365
+  orig: 535, 365
+  offset: 0, 0
+  index: -1
+medium button
+  rotate: false
+  xy: 1, 1
+  size: 535, 365
+  orig: 535, 365
+  offset: 0, 0
+  index: -1

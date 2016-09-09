@@ -1,0 +1,19 @@
+
+settingsNewButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+settingsbutton
+  rotate: false
+  xy: 1, 206
+  size: 553, 203
+  orig: 553, 203
+  offset: 0, 0
+  index: -1
+settingsbuttonpressed
+  rotate: false
+  xy: 1, 1
+  size: 553, 203
+  orig: 553, 203
+  offset: 0, 0
+  index: -1

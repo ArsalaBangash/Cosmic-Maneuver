@@ -1,0 +1,19 @@
+
+button_sign.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sign_in_pressed
+  rotate: false
+  xy: 1, 1
+  size: 317, 96
+  orig: 317, 96
+  offset: 0, 0
+  index: -1
+sign_in
+  rotate: false
+  xy: 320, 1
+  size: 317, 96
+  orig: 317, 96
+  offset: 0, 0
+  index: -1

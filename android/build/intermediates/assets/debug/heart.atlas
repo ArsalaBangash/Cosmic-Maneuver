@@ -1,0 +1,33 @@
+
+heart.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hearts_01_64x64
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 25
+Hearts_01_64x64
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 26
+Hearts_01_64x64
+  rotate: false
+  xy: 133, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 27
+Hearts_01_64x64
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 28

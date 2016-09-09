@@ -1,0 +1,19 @@
+
+startNewButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+startgame
+  rotate: false
+  xy: 1, 259
+  size: 804, 256
+  orig: 804, 256
+  offset: 0, 0
+  index: -1
+startgamepressed
+  rotate: false
+  xy: 1, 1
+  size: 804, 256
+  orig: 804, 256
+  offset: 0, 0
+  index: -1

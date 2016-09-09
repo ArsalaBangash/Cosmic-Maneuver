@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">435300140602</string>
+    <string name="package_name">com.anyconfusionhere.spaceshipgame</string>
+    <string name="achievement_1">CgkIuoykz9UMEAIQBA</string>
+    <string name="achievement_2">CgkIuoykz9UMEAIQBQ</string>
+    <string name="achievement_3">CgkIuoykz9UMEAIQBg</string>
+    <string name="achievement_4">CgkIuoykz9UMEAIQBw</string>
+    <string name="achievement_5">CgkIuoykz9UMEAIQCA</string>
+    <string name="leaderboard_easy">CgkIuoykz9UMEAIQAQ</string>
+    <string name="leaderboard_medium">CgkIuoykz9UMEAIQAg</string>
+    <string name="leaderboard_hard">CgkIuoykz9UMEAIQAw</string>
+</resources>

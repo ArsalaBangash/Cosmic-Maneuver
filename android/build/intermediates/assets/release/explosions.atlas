@@ -1,0 +1,96 @@
+
+explosions.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion_01_strip13 [www.imagesplitter.net]-0-0
+  rotate: false
+  xy: 1, 769
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-1
+  rotate: false
+  xy: 1, 577
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-2
+  rotate: false
+  xy: 397, 769
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-3
+  rotate: false
+  xy: 1, 193
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-4
+  rotate: false
+  xy: 199, 385
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-5
+  rotate: false
+  xy: 397, 577
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-6
+  rotate: false
+  xy: 595, 769
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-7
+  rotate: false
+  xy: 1, 1
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-8
+  rotate: false
+  xy: 199, 193
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-9
+  rotate: false
+  xy: 397, 385
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-10
+  rotate: false
+  xy: 199, 769
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-11
+  rotate: false
+  xy: 1, 385
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+explosion_01_strip13 [www.imagesplitter.net]-0-12
+  rotate: false
+  xy: 199, 577
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1

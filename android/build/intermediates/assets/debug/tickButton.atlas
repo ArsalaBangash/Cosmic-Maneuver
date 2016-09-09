@@ -1,0 +1,19 @@
+
+tickButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tick
+  rotate: false
+  xy: 1, 1
+  size: 182, 200
+  orig: 182, 200
+  offset: 0, 0
+  index: -1
+tickPressed
+  rotate: false
+  xy: 185, 1
+  size: 182, 200
+  orig: 182, 200
+  offset: 0, 0
+  index: -1
